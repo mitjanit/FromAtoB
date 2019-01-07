@@ -519,23 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
-			"settings":
-			{
-				"buffer_size": 1193,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
-			"settings":
-			{
-				"buffer_size": 2328,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -611,39 +594,42 @@
 	"expanded_folders":
 	[
 		"/D/GITHUB/FROMA2B/FromAtoB",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build"
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 01 - linear"
 	],
 	"file_history":
 	[
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SquareWaveMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/SquareWaveMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/AbsSinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - pos sinus/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 01 - linear/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02 - radial/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 01 - linear/build 01/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/EllipseMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SinusMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/PosSinusMotion.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SpiralMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/RadialMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/LinearMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/AbsSinusMotion.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SquareWaveMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/Mover.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 02 - opposite/build/SquareWaveMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/Motion.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/build.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/SquareWaveMotion.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/build.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/Mover.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/AbsSinusMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/Mover.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/SinusMotion.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/build.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/RadialMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/EllipseMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/SpiralMotion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/Mover.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/build.pde",
-		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/build.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/Motion.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/Mover.pde",
 		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/SpiralMotion.pde",
@@ -739,12 +725,7 @@
 		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/20 - geojson cluster marker/index.html",
 		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/21 - geojson heatmap/index.html",
 		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/23 - glyph icon marker/index.html",
-		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/rates.geojson",
-		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/barris.geojson.txt",
-		"/C/wamp/www/LEAFLET/EXAMPLES/17 - geojson adv/rates.geojson",
-		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/01 - basic init/index.html",
-		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/10 - layer groups/index.html",
-		"/D/GITHUB/WEB/WEB/GMAPS/EXAMPLES/maps01.html"
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/rates.geojson"
 	],
 	"find":
 	{
@@ -779,378 +760,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1193,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1032,
-								1032
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1064,
-										1065
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										950,
-										951
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Processing/Syntaxes/Processing.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1248.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Processing/Syntaxes/Processing.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2112.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

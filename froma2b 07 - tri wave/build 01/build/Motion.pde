@@ -23,7 +23,10 @@ class Motion {
 	int nSteps;
 	int nLaps;
 	int currentP = 0;
+
 	ArrayList<PVector> points;
+
+	int speed = 1;
 
 	Motion(PVector o, PVector t){
 		this.origin = o.copy();
@@ -45,9 +48,13 @@ class Motion {
 		this.nLaps = nl;
 	}
 
+	boolean updateNow(){
+		return (frameCount%speed == 0);
+	}
+
 	PVector move(){
 
-		if(!isPaused){
+		if(!isPaused && updateNow()){
 			currentP++;
 		}
 

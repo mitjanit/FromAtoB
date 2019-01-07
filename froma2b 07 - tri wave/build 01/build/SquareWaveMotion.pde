@@ -3,7 +3,9 @@
 public class SquareWaveMotion extends Motion {
 	
 	
-	int[] directions= {2,1,0,0,1,2};
+	//int[] directions= {2,1,0,0,1,2};
+	//int[] directions= {0,1,2,2,1,0};
+	int[] directions= {1,0,1,2};
 
 	public SquareWaveMotion(PVector o, PVector t, int ns, int nl){
 		super(o, t, ns, nl);
@@ -23,7 +25,7 @@ public class SquareWaveMotion extends Motion {
 		points.add(p);
 		for(int n=0; n<nLaps; n++){
 			int dir = 0;
-			for(int nq = 0; nq<6; nq++){
+			for(int nq = 0; nq<directions.length; nq++){
 				PVector p0 = points.get(points.size()-1);
 				if(directions[dir]==0){
 					for(int s=0; s<=nSteps; s++){
