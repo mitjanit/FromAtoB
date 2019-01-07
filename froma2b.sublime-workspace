@@ -1,0 +1,1251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"show",
+				"showDots"
+			],
+			[
+				"max",
+				"maxAngle"
+			],
+			[
+				"get",
+				"getNumSteps"
+			],
+			[
+				"label",
+				"labelAlignment"
+			],
+			[
+				"labe",
+				"labelAlignment"
+			],
+			[
+				"displa",
+				"displayNotebook"
+			],
+			[
+				"po",
+				"positions"
+			],
+			[
+				"setS",
+				"setStudies"
+			],
+			[
+				"goo",
+				"googleMap"
+			],
+			[
+				"go",
+				"googleMap"
+			],
+			[
+				"goa",
+				"goalsRight"
+			],
+			[
+				"st",
+				"stickWidth"
+			],
+			[
+				"le",
+				"leftStickX"
+			],
+			[
+				"fie",
+				"fieldWidth"
+			],
+			[
+				"ri",
+				"rightStickY"
+			],
+			[
+				"in",
+				"incY"
+			],
+			[
+				"dra",
+				"drawRightStick"
+			],
+			[
+				"ini",
+				"initSticks"
+			],
+			[
+				"righ",
+				"rightStickY"
+			],
+			[
+				"rig",
+				"rightStickX"
+			],
+			[
+				"leftS",
+				"leftStickY"
+			],
+			[
+				"stic",
+				"stickWidth"
+			],
+			[
+				"fiel",
+				"fieldHeight"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"coord",
+				"coordManacor"
+			],
+			[
+				"coor",
+				"coordManacor"
+			],
+			[
+				"geo",
+				"geojsonInfo"
+			],
+			[
+				"ge",
+				"geojsonFeature"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"carr",
+				"carrers2"
+			],
+			[
+				"sate",
+				"satelite2"
+			],
+			[
+				"layers",
+				"layersBase"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"txt",
+				"txtsize"
+			],
+			[
+				"sel",
+				"selcolor"
+			],
+			[
+				"cate",
+				"categoria"
+			],
+			[
+				"num",
+				"numpagines"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"carre",
+				"carroceries"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"soun",
+				"soundOn"
+			],
+			[
+				"point",
+				"pointSound"
+			],
+			[
+				"lef",
+				"leftPoints"
+			],
+			[
+				"left",
+				"leftPoints"
+			],
+			[
+				"inc",
+				"incX"
+			],
+			[
+				"update",
+				"updateSticks"
+			],
+			[
+				"drae",
+				"drawLeftStick"
+			],
+			[
+				"se",
+				"stickSeparation"
+			],
+			[
+				"draw",
+				"drawBall"
+			],
+			[
+				"arra",
+				"arrayNotation"
+			],
+			[
+				"object",
+				"objectNotation"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"val",
+				"vertical-align\tproperty"
+			],
+			[
+				"vSe",
+				"vSelect2"
+			],
+			[
+				"vS",
+				"vSelect1"
+			],
+			[
+				"vSele",
+				"vSelect1"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"llista",
+				"llistaCompra"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pro",
+				"producte"
+			],
+			[
+				"oper",
+				"operando2"
+			],
+			[
+				"op",
+				"operando1"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"min",
+				"numMinColors"
+			],
+			[
+				"ign",
+				"ignoreWhite"
+			],
+			[
+				"qua",
+				"quality"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"fileN",
+				"fileNames"
+			],
+			[
+				"create",
+				"createAllPalettes"
+			],
+			[
+				"ke",
+				"key\tkeyPressed"
+			],
+			[
+				"colo",
+				"color_1_003"
+			],
+			[
+				"dis",
+				"displayAllPalettes"
+			],
+			[
+				"un",
+				"unsortMap"
+			],
+			[
+				"loa",
+				"loadpixels\tloadPixels"
+			],
+			[
+				"hex",
+				"hexColor"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"Colo",
+				"ColorImage"
+			],
+			[
+				"crea",
+				"createRandomPalette"
+			],
+			[
+				"col",
+				"ColorImage"
+			],
+			[
+				"scene",
+				"sceneWidth"
+			],
+			[
+				"sce",
+				"sceneWidth"
+			],
+			[
+				"displ",
+				"displayCentroid"
+			],
+			[
+				"cen",
+				"centroid"
+			],
+			[
+				"OUTBAC",
+				"OUTBACK"
+			],
+			[
+				"INBA",
+				"INBACK"
+			],
+			[
+				"OUTELA",
+				"OUTELASTIC"
+			],
+			[
+				"INEL",
+				"INELASTIC"
+			],
+			[
+				"line",
+				"lineLength"
+			],
+			[
+				"mag",
+				"magnitude"
+			],
+			[
+				"INOUTELAS",
+				"INOUTELASTIC"
+			],
+			[
+				"im",
+				"imageName"
+			],
+			[
+				"load",
+				"loadimage\tloadImage"
+			],
+			[
+				"sclae",
+				"scale\tscale"
+			],
+			[
+				"rad",
+				"radt"
+			],
+			[
+				"cons",
+				"constrain\tconstrain"
+			],
+			[
+				"c_",
+				"c_a"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"G",
+				"GeneticGradient"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"mutat",
+				"mutateRate"
+			],
+			[
+				"Mut",
+				"Mutation"
+			],
+			[
+				"mu",
+				"Mutation"
+			],
+			[
+				"mut",
+				"mutateRate"
+			],
+			[
+				"stop",
+				"stopEvolution"
+			],
+			[
+				"top",
+				"topScoreAngleTarget"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"topSC",
+				"topScoreEquilateral"
+			],
+			[
+				"topS",
+				"topScoreDistCentroide"
+			],
+			[
+				"score",
+				"topScoreAngle"
+			],
+			[
+				"ang",
+				"angleTarget"
+			],
+			[
+				"angle",
+				"angleTartget"
+			],
+			[
+				"sco",
+				"scoreEquilateral"
+			],
+			[
+				"disa",
+				"distances"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"sc",
+				"scoreDistCentroide"
+			],
+			[
+				"an",
+				"angleTarget"
+			],
+			[
+				"mouse",
+				"mouse\tmousePressed"
+			],
+			[
+				"click",
+				"clickedOn"
+			],
+			[
+				"pop",
+				"popMax"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
+			"settings":
+			{
+				"buffer_size": 2328,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Re-run sketch"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch (Processing 3 only)"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Export sketch as application"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Kill running sketches"
+				]
+			],
+			[
+				"Packages/Processing/Build Systems/Processing.sublime-build",
+				"Run sketch (Processing 3 only)"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst\ta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GITHUB/FROMA2B/FromAtoB",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build"
+	],
+	"file_history":
+	[
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/PosSinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SpiralMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/RadialMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/LinearMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/AbsSinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 03 - rebuild/build/SquareWaveMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 02 - opposite/build/SquareWaveMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 06 - square wave/build 01/build/SquareWaveMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 05 - abs sinus/build 01/build/AbsSinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/SinusMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/RadialMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/EllipseMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - sinus/build 01/build/SpiralMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 04 - ellipse/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 01/build/SpiralMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 02/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 02/build/SpiralMotion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 03 - spiral/build 02/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02/build 01/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02/build 01/build/build.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02/build 01/build/Point.pde",
+		"/D/GITHUB/FROMA2B/FromAtoB/froma2b 02/build 01/build/RadialMotion.pde",
+		"/D/GITHUB/FROMA2B/froma2b 01/build 01/build/Point.pde",
+		"/D/GITHUB/FROMA2B/froma2b 01/build 01/build/Motion.pde",
+		"/D/GITHUB/FROMA2B/froma2b 01/build 01/build/LinearMotion.pde",
+		"/D/GITHUB/FROMA2B/froma2b 01/build 01/build/Mover.pde",
+		"/D/GITHUB/FROMA2B/froma2b 01/build 01/build/build.pde",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react18 - form select multiple/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react17 - form select/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react19 - form radio/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react16 - form textarea/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react15 - form validation/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react14 - form states/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react13 - keys/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react12 - ajax/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react12 - ajax/src/info.json",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react12 - ajax/public/info.json",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react11 - comp lifecycle/src/Clock.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react11 - comp lifecycle/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react10 - comp events/src/FormNumbers.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react10 - comp events/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react09 - props/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react09 - props/src/ListResults.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react08 - state 4/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react07 -state 3/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react06 -state 2/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react05 -state 1/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react04 - events/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react04 - events/src/index.css",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react03 - jsx 2/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react03 - jsx 2/src/index.css",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react01 - hello world/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react02 - jsx basic/src/App.js",
+		"/D/GITHUB/WEB/WEB/REACT/EXAMPLES/react01 - hello world/README.md",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - data binding/dataJoin.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/transformationSVGD3.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/01 - basic selection/index.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/01 - basic selection/selectByTag.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/01 - basic selection/selectByClass.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/01 - basic selection/selectById.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - adding dom/append.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - adding dom/htmlMethod.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - adding dom/attrMethod.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - adding dom/styleMethod.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/01 - basic selection/selectAll.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - data binding/datum.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - data binding/data.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/createSVG.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/createRectSVG.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/createCircleSVG.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/createEllipseSVG.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/transformationSVG.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/07 - transitions/index.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/07 - transitions/simpleTransition.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/07 - transitions/durationMethos.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/07 - transitions/delayMethod.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/08 - charts/barchart.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/08 - charts/circleChart.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/08 - charts/piechart.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/08 - charts/donutChart.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/08 - charts/graph.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/09 - array api/arrayAPI.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/09 - array api/arraySearch.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/09 - array api/arrayTransform.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/02 - adding dom/text.html",
+		"/D/GITHUB/WEB/WEB/BOOTSTRAP JS/EXAMPLES/01 - alert via data.html",
+		"/D/GITHUB/WEB/WEB/ANIME JS/01 - basics/index.html",
+		"/D/GITHUB/WEB/WEB/SVG/EXAMPLES/svg01.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/05 - axes/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/16 - geojson basic/index.html",
+		"/D/GITHUB/WEB/WEB/D3js/EXAMPLES/06 - create svg elements/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/CLASSE/01 - php2geojson/index.php",
+		"/D/GITHUB/WEB/WEB/DATATABLES JS/CLASSE/03 - custom export buttons/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/11 - tile layers/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/12 - control scale/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/13 - zoom in out/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/14 - pan to/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/15 - flyTo/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/18 - geojson 2 layers/barris.geojson",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/18 - geojson 2 layers/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/19 - geojson color area/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/22 - fullscreen map/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/20 - geojson cluster marker/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/21 - geojson heatmap/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/23 - glyph icon marker/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/rates.geojson",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/17 - geojson adv/barris.geojson.txt",
+		"/C/wamp/www/LEAFLET/EXAMPLES/17 - geojson adv/rates.geojson",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/01 - basic init/index.html",
+		"/D/GITHUB/WEB/WEB/LEAFLET/EXAMPLES/10 - layer groups/index.html",
+		"/D/GITHUB/WEB/WEB/GMAPS/EXAMPLES/maps01.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "froma2b 06 - square wave/build 03 - rebuild/build/build.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1032,
+								1032
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1064,
+										1065
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										950,
+										951
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Processing/Syntaxes/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "froma2b 06 - square wave/build 03 - rebuild/build/Mover.pde",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Processing/Syntaxes/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 105.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Processing/Build Systems/Processing.sublime-build",
+	"project": "froma2b.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GITHUB\\DotSystem\\DotSystem\\dotsystem-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
