@@ -33,14 +33,8 @@ void setup(){
 
 	// Mover
 	m = new Mover(a.pos, b.pos);
-	//m.setMotion(Motion.LINEAR, 15, 0);
-	//m.setMotion(Motion.RADIAL, 15, 0);
+	m.setMotion(Motion.RADIAL, 15, 0);
 	m.setMotion(Motion.ELLIPSE, 15, 0);
-	//m.setMotion(Motion.SPIRAL,50, 3);
-	//m.setMotion(Motion.SINUS, 30, 2);
-	//m.setMotion(Motion.ABS_SINUS, 150, 3);
-	//m.setMotion(Motion.POS_SINUS, 150, 3);
-	//m.setMotion(Motion.SQUARE_WAVE, 2, 5);
 
 }
 

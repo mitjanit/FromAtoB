@@ -1,10 +1,11 @@
 
-class AbsSinusMotion extends Motion {
+
+class SinusMotion extends Motion {
 	
 	int direction = 1;
 	float amplitude = 150;
 
-	AbsSinusMotion(PVector o, PVector t, int ns, int nl){
+	SinusMotion(PVector o, PVector t, int ns, int nl){
 		super(o, t, ns, nl);
 		calculatePath();
 	}
@@ -17,7 +18,7 @@ class AbsSinusMotion extends Motion {
 			float angle= map(n, 0, nSteps, 0.0, maxAngle); //TWO_PI/4*ncs;
 			float x=map(n, 0, nSteps, origin.x, target.x);
 			float baseY = map(n, 0, nSteps, origin.y, target.y);
-			float y = baseY - direction*amplitude*abs(sin(angle));
+			float y = baseY - direction*amplitude*sin(angle);
 
 			PVector p = new PVector(x, y);
 			points.add(p);

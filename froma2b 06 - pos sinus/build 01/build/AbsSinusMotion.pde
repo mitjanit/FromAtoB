@@ -1,7 +1,7 @@
 
 class AbsSinusMotion extends Motion {
 	
-	int direction = 1;
+	int direction = -1;
 	float amplitude = 150;
 
 	AbsSinusMotion(PVector o, PVector t, int ns, int nl){
