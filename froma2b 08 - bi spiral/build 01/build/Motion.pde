@@ -14,6 +14,8 @@ class Motion {
 
 	static final int SQUARE_WAVE = 7;
 	static final int TRIANGLE_WAVE = 8;
+
+	static final int BI_SPIRAL = 9;
 	
 	PVector origin;
 	PVector target;

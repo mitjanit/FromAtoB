@@ -49,6 +49,11 @@ class Mover {
 			case Motion.TRIANGLE_WAVE: 		
 				motion = new TriangleWaveMotion(origin, target, (int)a, (int)b);
 				break; 
+
+
+			case Motion.BI_SPIRAL: 		
+				motion = new BiSpiralMotion(origin, target, (int)a, (int)b);
+				break; 
 		}
 	}
 
