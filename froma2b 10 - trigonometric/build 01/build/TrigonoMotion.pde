@@ -4,7 +4,7 @@ class TrigonoMotion extends Motion {
 	
 	int direction = 1;
 	float amplitude = 150;
-	int version = 3;
+	int version = 4;
 
 	TrigonoMotion(PVector o, PVector t, int ns, int nl){
 		super(o, t, ns, nl);
@@ -36,6 +36,7 @@ class TrigonoMotion extends Motion {
 			case 1 : return sin(angle)/(2 + cos(PI+angle/2));
 			case 2 : return sin(PI + angle/2)/(2 - sin(TWO_PI+angle/4));
 			case 3 : return sin(angle*3)/(2 - cos(PI+angle*4));
+			case 4 : return sin(angle*3)*cos(PI+angle*4);
 			default : return 0;
 		}
 	}
