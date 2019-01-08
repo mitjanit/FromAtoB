@@ -39,7 +39,6 @@ class TrigonoMotion extends Motion {
 			case 4 : return sin(angle*3)*cos(PI+angle*4);
 			case 5 : return sin(angle)*cos(21*angle);
 			case 6 : return sin(2*sin(2*sin(2*sin(angle))));
-			
 			default : return 0;
 		}
 	}

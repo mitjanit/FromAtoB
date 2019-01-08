@@ -19,13 +19,13 @@ void setup(){
 	PFont f = createFont(pathDATA+"myFont.ttf", 32);
 
 	// Origin
-	a = new Point("A", 1*width/5, 1*height/2, 20);
+	a = new Point("A", 2*width/5, 3*height/4, 20);
 	a.setFillColor(color(255, 0, 0, 255));
 	a.setTextFont(f);
 	a.setLabelAlignment(-20*2, 10);
 
 	// Target
-	b = new Point("B", 4*width/5, 1*height/2, 20);
+	b = new Point("B", 3*width/5, 3*height/4, 20);
 	b.setFillColor(color(0, 0, 255));
 	b.setTextFont(f);
 	b.setLabelAlignment(+20*2, 10);
@@ -33,7 +33,7 @@ void setup(){
 
 	// Mover
 	m = new Mover(a.pos, b.pos);
-	m.setMotion(Motion.TRIGONOMETRIC, 200, 4);
+	m.setMotion(Motion.NEFROID, 100, 0);
 
 }
 

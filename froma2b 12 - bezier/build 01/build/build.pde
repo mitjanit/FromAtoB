@@ -33,7 +33,7 @@ void setup(){
 
 	// Mover
 	m = new Mover(a.pos, b.pos);
-	m.setMotion(Motion.TRIGONOMETRIC, 200, 4);
+	m.setMotion(Motion.BEZIER, 40, 0);
 
 }
 
