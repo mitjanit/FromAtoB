@@ -11,6 +11,12 @@ class TrigonoMotion extends Motion {
 		calculatePath();
 	}
 
+	TrigonoMotion(PVector o, PVector t, int ns, int nl, int v){
+		super(o, t, ns, nl);
+		this.version = v;
+		calculatePath();
+	}
+
 	void setVersion(int v){
 		this.version = v;
 	}

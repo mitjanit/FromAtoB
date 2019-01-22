@@ -53,6 +53,9 @@ class Mover {
 		if(!motion.isEnded){
 			currentPos = motion.move();
 		}
+		else {
+			motion.reset();
+		}
 	}
 
 	void reset(){

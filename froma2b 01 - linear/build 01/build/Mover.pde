@@ -70,6 +70,9 @@ class Mover {
 
 	void display(boolean showDots, boolean showNums){
 
+		color dotColor = color(20, 250);
+		color lineColor = color(20, 200);
+
 		ArrayList<PVector> positions = new ArrayList<PVector>();
 		int n = 0;
 		for(PVector p : motion.points){
@@ -87,7 +90,7 @@ class Mover {
 				pushMatrix();
 					translate(p.x, p.y, p.z);
 					noStroke();
-					fill(0);
+					fill(dotColor);
 					ellipse(0,0, 15, 15);
 					if(showNums && i>0 && i<getNumSteps()){
 						textSize(20);
@@ -101,7 +104,7 @@ class Mover {
 		pushMatrix();
 			translate(currentPos.x, currentPos.y, currentPos.z);
 			noStroke();
-			fill(0);
+			fill(dotColor);
 			ellipse(0,0, 15, 15);
 		popMatrix();
 
@@ -109,7 +112,7 @@ class Mover {
 		for(int i=0; i<positions.size()-1; i++){
 			PVector p0 = positions.get(i);
 			PVector p1 = positions.get(i+1);
-			stroke(0);
+			stroke(lineColor);
 			strokeCap(ROUND);
 			strokeWeight(3);
 			strokeJoin(ROUND);
