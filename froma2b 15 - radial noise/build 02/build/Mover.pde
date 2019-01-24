@@ -11,6 +11,14 @@ class Mover {
 		this.currentPos = new PVector(o.x, o.y, o.z);
 	}
 
+	void setOrigin(float x, float y){
+		this.origin = new PVector(x, y);
+	}
+
+	void setTarget(float x, float y){
+		this.target = new PVector(x, y);
+	}
+
 	void setMotion(int tipus, float a, float b){
 		switch(tipus){
 
@@ -65,6 +73,22 @@ class Mover {
 
 			case Motion.NEFROID: 		
 				motion = new NefroidMotion(origin, target, (int)a, (int)b);
+				break; 
+
+			case Motion.BEZIER: 		
+				motion = new BezierMotion(origin, target, (int)a, (int)b);
+				break; 
+
+			case Motion.ROSE: 		
+				motion = new RoseMotion(origin, target, (int)a, (int)b);
+				break; 
+
+			case Motion.SUN: 		
+				motion = new SunMotion(origin, target, (int)a, (int)b);
+				break; 
+
+			case Motion.RADIAL_NOISE: 		
+				motion = new RadialNoiseMotion(origin, target, (int)a);
 				break; 
 		}
 	}

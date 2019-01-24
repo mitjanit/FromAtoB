@@ -22,10 +22,10 @@ void setup(){
 	colorMode(RGB, 255);
 	f = createFont(pathDATA+"myFont.ttf", 32);
 
-	start 	= new PVector(1*width/4, 3*height/4);
-	end 	= new PVector(3*width/4, 3*height/4);
-	dm = new DemoMotion("13. Nefroid Motion", start, end, Motion.NEFROID, 
-		200, 8, 1);
+	start 	= new PVector(1*width/4, 1*height/2);
+	end 	= new PVector(3*width/4, 1*height/2);
+	dm = new DemoMotion("17. Sun Motion", start, end, Motion.SUN, 
+		440, 8, 1);
 
 }
 
@@ -33,7 +33,7 @@ void draw(){
 	background(bgColor);
 	dm.display(false, false);
 	if(recordVideo){
-		saveFrame("video/nefroid01-######.tif");
+		saveFrame("video/bezier01-######.tif");
 	}
 }
 

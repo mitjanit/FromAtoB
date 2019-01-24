@@ -66,6 +66,10 @@ class Mover {
 			case Motion.NEFROID: 		
 				motion = new NefroidMotion(origin, target, (int)a, (int)b);
 				break; 
+
+			case Motion.BEZIER: 		
+				motion = new BezierMotion(origin, target, (int)a, (int)b);
+				break; 
 		}
 	}
 
