@@ -28,7 +28,7 @@ class FoliumMotion extends Motion {
 			float x = f*cos(angle);
 			float y = f*sin(angle);
 
-			float ar = PI/5.5;
+			float ar = PI/5.52;
 			float xr = origin.x + x*cos(ar) - y*sin(ar);
 			float yr = origin.y + x*sin(ar) + y*cos(ar);
 

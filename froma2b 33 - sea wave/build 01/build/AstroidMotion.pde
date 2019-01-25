@@ -16,11 +16,16 @@ class AstroidMotion extends Motion {
 
 		float minAngle = PI*direction;
 		float maxAngle = TWO_PI*direction;
-		float a = getDistance()/2.0;
+		//float a = getDistance()/2.0;
+
+		float minA = getDistance()/2.0;
+		float maxA = minA*1;
+
 		PVector center = getCenter();
 
 		for(int n=0; n<=nSteps; n++){
 			float angle= map(n, 0, nSteps, minAngle, maxAngle); 
+			float a = map(abs(nSteps/2.0 - n), nSteps/2.0, 0, minA, maxA);
 			float c = cos(angle);
 			float s = sin(angle);
 			float x = center.x + a*c*c*c;

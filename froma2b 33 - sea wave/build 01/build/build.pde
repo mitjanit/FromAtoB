@@ -1,11 +1,14 @@
 
-int    sceneWidth   = 1800;
-int    sceneHeight  = 800;
-color  bgColor    = #ECECEC;
-String pathDATA = "../../../DATA/";
+int    sceneWidth   = 1080;
+int    sceneHeight  = 1080;
+color  bgColor    = #F0F0D0;
 
-Point a, b;
-Mover m;
+boolean recordVideo = false;
+String pathDATA = "../../../DATA/";
+PFont f;
+
+PVector start, end;
+DemoMotion dm;
 
 void settings() {
 	size(sceneWidth,sceneHeight,P3D);
@@ -13,51 +16,42 @@ void settings() {
 }
 
 void setup(){
-
+	frameRate(30);
 	background(bgColor);
+	smooth();
 	colorMode(RGB, 255);
-	PFont f = createFont(pathDATA+"myFont.ttf", 32);
+	f = createFont(pathDATA+"myFont.ttf", 32);
 
-	// Origin
-	a = new Point("A", 1*width/5, 1*height/3, 20);
-	a.setFillColor(color(255, 0, 0, 255));
-	a.setTextFont(f);
-	a.setLabelAlignment(-20*2, 10);
-
-	// Target
-	b = new Point("B", 4*width/5, 2*height/3, 20);
-	b.setFillColor(color(0, 0, 255));
-	b.setTextFont(f);
-	b.setLabelAlignment(+20*2, 10);
-
-
-	// Mover
-	m = new Mover(a.pos, b.pos);
-	m.setMotion(Motion.SEA_WAVE, 50, 6);
+	start 	= new PVector(1*width/4, 1*height/2);
+	end 	= new PVector(3*width/4, 1*height/2);
+	dm = new DemoMotion("37. Sea Wave Motion", start, end, Motion.SEA_WAVE, 
+		50, 3, 1);
 
 }
 
 void draw(){
-
 	background(bgColor);
-	a.display();
-	b.display();
-	m.display(false, false);
-	m.move();
-
-	//m.motion.setSpeed(map(mouseX, 0, width, 1, 10));
+	dm.display(false, false);
+	if(recordVideo){
+		saveFrame("video/peanut01-######.tif");
+	}
 }
+
 
 
 void keyPressed(){
 	if(key=='r'){
-		m.reset();
+		dm.m.reset();
 	}
 	else if(key=='p'){
-		m.pause();
+		dm.m.pause();
 	}
 	else if(key=='s'){
-		m.start();
+		dm.m.start();
+	}
+	else if(key=='x'){
+		recordVideo = !recordVideo;
+		println("RECORD VIDEO: "+recordVideo);
 	}
 
 }

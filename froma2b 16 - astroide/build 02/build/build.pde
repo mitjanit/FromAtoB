@@ -24,7 +24,7 @@ void setup(){
 
 	start 	= new PVector(1*width/4, 1*height/2);
 	end 	= new PVector(3*width/4, 1*height/2);
-	dm = new DemoMotion("18. Radial Noise Motion", start, end, Motion.RADIAL_NOISE, 
+	dm = new DemoMotion("19. Astroid Motion", start, end, Motion.ASTROID, 
 		140, 8, 1);
 
 }

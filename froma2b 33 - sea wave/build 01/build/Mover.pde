@@ -11,6 +11,14 @@ class Mover {
 		this.currentPos = new PVector(o.x, o.y, o.z);
 	}
 
+	void setOrigin(float x, float y){
+		this.origin = new PVector(x, y);
+	}
+
+	void setTarget(float x, float y){
+		this.target = new PVector(x, y);
+	}
+
 	void setMotion(int tipus, float a, float b){
 		switch(tipus){
 
@@ -56,11 +64,11 @@ class Mover {
 				break; 
 
 			case Motion.LINEAR_NOISE: 		
-				motion = new LinearNoiseMotion(origin, target, (int)a);
+				motion = new LinearNoiseMotion(origin, target, (int)a, (int)b);
 				break; 
 
 			case Motion.TRIGONOMETRIC: 		
-				motion = new TrigonoMotion(origin, target, (int)a, (int)b);
+				motion = new TrigonoMotion(origin, target, (int)a, (int)b, 2);
 				break; 
 
 			case Motion.NEFROID: 		
@@ -89,7 +97,7 @@ class Mover {
 
 			case Motion.CARDOID: 		
 				motion = new CardoidMotion(origin, target, (int)a, (int)b);
-				break; 
+				break;
 
 			case Motion.SINUS_SPIRAL: 		
 				motion = new SinusSpiralMotion(origin, target, (int)a, (int)b);
@@ -109,7 +117,7 @@ class Mover {
 
 			case Motion.FLOWER: 		
 				motion = new FlowerMotion(origin, target, (int)a, (int)b);
-				break; 
+				break;
 
 			case Motion.FERMAT_SPIRAL: 		
 				motion = new FermatSpiralMotion(origin, target, (int)a, (int)b);
@@ -145,7 +153,7 @@ class Mover {
 
 			case Motion.HASH: 		
 				motion = new HashMotion(origin, target, (int)a, (int)b);
-				break; 
+				break;
 
 			case Motion.PEANUT: 		
 				motion = new PeanutMotion(origin, target, (int)a, (int)b);
@@ -153,8 +161,16 @@ class Mover {
 
 			case Motion.SEA_WAVE: 		
 				motion = new SeaWaveMotion(origin, target, (int)a, (int)b);
-				break;
+				break; 
 		}
+	}
+
+	void setSpeed(int s){
+		this.motion.setSpeed(s);
+	}
+
+	boolean isEnded(){
+		return motion.isEnded;
 	}
 
 

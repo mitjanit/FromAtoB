@@ -90,6 +90,10 @@ class Mover {
 			case Motion.RADIAL_NOISE: 		
 				motion = new RadialNoiseMotion(origin, target, (int)a);
 				break; 
+
+			case Motion.ASTROID: 		
+				motion = new AstroidMotion(origin, target, (int)a, (int)b);
+				break; 
 		}
 	}
 
