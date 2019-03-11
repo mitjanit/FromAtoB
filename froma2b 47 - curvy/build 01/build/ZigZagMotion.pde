@@ -7,6 +7,7 @@ class ZigZagMotion extends Motion {
 	PVector c;
 	float r, dp;
 	ArrayList<PVector> centers;
+	ArrayList<CircleIntersections> intersections;
 
 
 	ZigZagMotion(PVector o, PVector t, int ns, int nl){

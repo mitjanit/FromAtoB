@@ -1,14 +1,16 @@
 
-int    sceneWidth   = 1080;
+int    sceneWidth   = 1920;
 int    sceneHeight  = 1080;
 color  bgColor    = #F0F0D0;
 
 boolean recordVideo = false;
 String pathDATA = "../../../DATA/";
-String num = "48";
-String title = num+". Zig Zag Motion";
+String num = "01";
+String title = num+". Rectilinear Motion";
 PFont f;
 
+
+ArrayList<DemoMotion> dms;
 PVector start, end;
 DemoMotion dm;
 
@@ -24,33 +26,48 @@ void setup(){
 	colorMode(RGB, 255);
 	f = createFont(pathDATA+"myFont.ttf", 32);
 
-	start 	= new PVector(1*width/5, 1*height/3);
-	end 	= new PVector(4*width/5, 2*height/3);
-	dm = new DemoMotion(title, start, end, 
-						Motion.ZIG_ZAG, 
-						15, 10, 1);
+	dms = new ArrayList<DemoMotion>();
+	for(int i=0; i<600; i++){
 
+		start 	= new PVector(1*width/2 + random(0, 0), i*3);
+		end 	= new PVector(1*width/1, i*3);
+		if(i%2==0){
+			end 	= new PVector(0, i*3);
+		}
+
+		dm = new DemoMotion(title, start, end,
+						Motion.LINEAR, 
+						(int)random(51, 251), 5, 1);
+		dms.add(dm);
+	}
 }
 
 void draw(){
 	background(bgColor);
-	dm.display(false, false);
+	for(DemoMotion dm : dms){
+		dm.display(false, false);
+	}
 	if(recordVideo){
 		saveFrame(pathDATA+"video/"+num+"/"+title+"-######.tif");
 	}
 }
 
 
-
 void keyPressed(){
 	if(key=='r'){
-		dm.m.reset();
+		for(DemoMotion dm : dms){
+			dm.m.reset();
+		}
 	}
 	else if(key=='p'){
-		dm.m.pause();
+		for(DemoMotion dm : dms){
+			dm.m.pause();
+		}
 	}
 	else if(key=='s'){
-		dm.m.start();
+		for(DemoMotion dm : dms){
+			dm.m.start();
+		}
 	}
 	else if(key=='x'){
 		recordVideo = !recordVideo;

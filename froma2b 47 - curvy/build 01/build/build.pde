@@ -5,8 +5,8 @@ color  bgColor    = #F0F0D0;
 
 boolean recordVideo = false;
 String pathDATA = "../../../DATA/";
-String num = "48";
-String title = num+". Zig Zag Motion";
+String num = "49";
+String title = num+". Snake Motion";
 PFont f;
 
 PVector start, end;
@@ -24,10 +24,10 @@ void setup(){
 	colorMode(RGB, 255);
 	f = createFont(pathDATA+"myFont.ttf", 32);
 
-	start 	= new PVector(1*width/5, 1*height/3);
-	end 	= new PVector(4*width/5, 2*height/3);
+	start 	= new PVector(1*width/5, 1*height/4);
+	end 	= new PVector(4*width/5, 3*height/4);
 	dm = new DemoMotion(title, start, end, 
-						Motion.ZIG_ZAG, 
+						Motion.SNAKE, 
 						15, 10, 1);
 
 }
